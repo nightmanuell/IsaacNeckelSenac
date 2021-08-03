@@ -1,0 +1,30 @@
+TesteAula JovemProgramador
+
+# Aula 02 - Requisitos
+
+Questão prática 1 - Soma de dois valores
+
+# Passo 1
+  Ler listagem dos números inteiros
+# Passo 2
+  Salvar dados da lista
+# Passo 3
+  Ler número alvo
+# Passo 4
+  Salvar dado do número alvo
+# Passo 5
+  Buscar dois números diferentes da lista
+# Passo 6
+  Somar os dois números, nas duas ordens possíveis (A+B ou B+A)
+# Passo 7
+  Comparar o resultado com o valor do dado alvo
+# Passo 8
+  Se o resultado for igual, fim
+# Passo 9
+  Se o resultado for diferente, buscar um par de valores da lista diferente
+# Passo 10 
+  Somar os valores, nas duas ordens possíveis
+# Passo 11
+  Comparar o resultado com o valor do dado alvo
+# Passo 12
+  Repetir a ação até que o resultado da soma seja igual ao dado alvo
